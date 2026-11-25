@@ -96,3 +96,29 @@ patient-management/
         └── pages/
             └── Dashboard.jsx
 ```
+
+## Screenshots
+
+### Add a Patient
+
+![Add patient dialog](screenshots/addPatient.png)
+
+### Dashboard
+
+![Patient management dashboard](screenshots/dashboard.png)
+
+### Edit Patient
+
+![Edit patient dialog](screenshots/edit-patient.png)
+
+### Filters
+
+![Patient filters](screenshots/filters.png)
+
+### Mobile View
+
+![Patient management on mobile](screenshots/mobile-view.png)
+
+### Patient List
+
+![Patient list](screenshots/patient-list.png)
